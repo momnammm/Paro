@@ -1,0 +1,23 @@
+h1{
+    color: rgb(247, 161, 202);
+    text-align: center;
+    font-size:70px ;
+}
+h2{
+color: rgb(252, 83, 184);
+text-align: center;
+font-size:50px ;
+}
+h3{
+color: rgb(250, 86, 190);
+text-align: center;
+font-size: 60px;
+}
+h4{
+color: rgb(242, 79, 217);
+text-align: center;
+font-size: 40px;
+}
+body{
+    background-image: url(star\ doodle.jpg)
+}
